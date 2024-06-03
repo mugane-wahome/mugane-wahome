@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @mugane-wahome
+# 👋 Hi, I’m mugane-wahome
 
 - 👀 I’m interested in web development, data analysis, and machine learning.
 - 🌱 I’m currently learning advanced React, Python for data science, and deep learning.
