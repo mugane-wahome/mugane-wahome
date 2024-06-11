@@ -3,7 +3,7 @@
 👋 Hi there! I'm Samuel Wahome, also known as mugane-wahome. Welcome to my GitHub profile! 
 
 ## About Me
-- 👨‍🎓 Bachelor's degree in Actuarial Science
+- 👨‍🎓 Bachelor's degree in Actuarial Science, Full stack developer
 - 👀 Interested in web development, data analysis, and machine learning
 - 🌱 Currently learning advanced React, Python for data science, and deep learning
 - 💞️ Looking to collaborate on open-source projects related to data visualization and AI-driven applications
